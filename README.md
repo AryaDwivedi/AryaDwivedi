@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryadwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="aryadwivedi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AryaDwivedi](https://github.com/AryaDwivedi)
+- 👨‍💻 All of my projects are available at https://github.com/AryaDwivedi?tab=repositories
 
 - 📫 How to reach me **aryaman.dwivedi02@gmail.com**
 
