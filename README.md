@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aryaman Dwivedi</h1>
 <h3 align="center">A team player and an enthusiast person with keen interest in learning new things.</h3>
-<img align="right" alt="coding" width="width" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-dx-developer-experience-401a0e44a9d9&psig=AOvVaw3Nc_CRlzNB1a7Z5Zn0fvGC&ust=1725997458954000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCND6uN3PtogDFQAAAAAdAAAAABBO">
+<img align="right" alt="coding" width="width" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryadwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="aryadwivedi" /> </p>
-![1_IRGHmiGsa16stedQvIaZfw](https://github.com/user-attachments/assets/85742be5-f91f-48d3-b8cd-a80277de0f27)
 
 - 👨‍💻 All of my projects are available at https://github.com/AryaDwivedi?tab=repositories
 
