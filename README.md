@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryaman Dwivedi</h1>
 <h3 align="center">A team player and an enthusiast person with keen interest in learning new things.</h3>
-<img align="right" alt="coding" width="width" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
+<img align="right" alt="coding" width="width" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-dx-developer-experience-401a0e44a9d9&psig=AOvVaw3Nc_CRlzNB1a7Z5Zn0fvGC&ust=1725997458954000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCND6uN3PtogDFQAAAAAdAAAAABBO">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryadwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="aryadwivedi" /> </p>
 
