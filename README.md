@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryaman Dwivedi</h1>
 <h3 align="center">A team player and an enthusiast person with keen interest in learning new things.</h3>
-<img align="right" alt="coding" width="25%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryadwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="aryadwivedi" /> </p>
 
@@ -9,8 +9,10 @@
 - 📫 How to reach me **aryaman.dwivedi02@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1bQ-ZIrVhWDo9z9IfpZnXMz5UB-B03XhR/view?usp=drive_link
+ <img align="right" alt="coding" width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 - ⚡ Fun fact **I think I am a Chandler😉**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
