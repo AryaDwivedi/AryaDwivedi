@@ -9,7 +9,7 @@
 - 📫 How to reach me **aryaman.dwivedi02@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1bQ-ZIrVhWDo9z9IfpZnXMz5UB-B03XhR/view?usp=drive_link
- <img align="right" alt="coding" width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<img align="right" alt="coding" width="40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 - ⚡ Fun fact **I think I am a Chandler😉**
 
